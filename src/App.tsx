@@ -1,3 +1,4 @@
+// foi feita a instalaçao do phosphor-react e a importaçao do icone abaixo
 import { MagnifyingGlassPlus } from 'phosphor-react'
 
 import './styles/main.css';
