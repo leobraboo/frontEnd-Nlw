@@ -13,7 +13,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         galaxy: "url('/fundo.png')",
-        'duo-gradient': 'linear-gradient(89.86deg, #9572FC 23.08%, #43E7AD 33.94%, #E1D55D 44.57%)',
+        'duo-gradient': 'linear-gradient(130deg, #9572FC 28.08%, #43E7AD 63.94%, #E1D55D 8.99%)',
         'ad-gradient': ' linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.9) 67.08%)',
       }
     },

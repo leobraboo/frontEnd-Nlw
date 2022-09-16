@@ -76,7 +76,7 @@ function App() {
 
       </div>
 
-      <div className='pt-1 bg-duo-gradient self-stretch rounded-lg overflow-hidden mt-4  '>
+      <div className='pt-1 bg-duo-gradient self-stretch rounded-lg overflow-hidden mt-10  '>
         <div className='bg-[#2A2634] px-8 py-6 flex justify-between items-center  '>
           <div>
             <strong className='text-2xl text-white font-black'>Não encontrou seu duo?</strong>
